@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+*.swap
+npm-debug.log
+node_modules
+examples/*.png
+.node-version
